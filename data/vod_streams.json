@@ -1,132 +1,362 @@
 [
   {
     "num": 1,
-    "name": "Big Buck Bunny",
+    "name": "Side by Side",
     "stream_type": "movie",
     "stream_id": "1",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/1.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/1.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/1.jpg"
+    ],
     "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "youtube_trailer": "yt_side_by_side_1",
+    "rating": "7.6",
+    "releasedate": "2023-01-20",
+    "plot": "Two strangers whose lives collide after a chance encounter must decide whether to confront their pasts together or drift apart forever."
   },
   {
     "num": 2,
-    "name": "Elephant Dream",
+    "name": "Beneath the Shadow",
     "stream_type": "movie",
     "stream_id": "2",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "1",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/2.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/2.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/2.jpg"
+    ],
+    "category_id": "2",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "youtube_trailer": "yt_beneath_shadow_2",
+    "rating": "7.3",
+    "releasedate": "2023-02-15",
+    "plot": "A reporter uncovering a decades-old crime learns that the truth is buried in the darkest corners of her own memories."
   },
   {
     "num": 3,
-    "name": "For Bigger Blazes",
+    "name": "Beyond the Memories",
     "stream_type": "movie",
     "stream_id": "3",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "2",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/3.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/3.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/3.jpg"
+    ],
+    "category_id": "3",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "youtube_trailer": "yt_beyond_memories_3",
+    "rating": "7.9",
+    "releasedate": "2023-03-05",
+    "plot": "Returning to her hometown, a young woman relives first love and heartbreak while discovering who she wants to be now."
   },
   {
     "num": 4,
-    "name": "For Bigger Escape",
+    "name": "Secrets and Chases",
     "stream_type": "movie",
     "stream_id": "4",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "2",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/4.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/4.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/4.jpg"
+    ],
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "youtube_trailer": "yt_secrets_chases_4",
+    "rating": "7.4",
+    "releasedate": "2023-03-28",
+    "plot": "A brilliant investigator and a charming con artist are forced to team up when a powerful secret puts them both in danger."
   },
   {
     "num": 5,
-    "name": "For Bigger Fun",
+    "name": "Bound",
     "stream_type": "movie",
     "stream_id": "5",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/5.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/5.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/5.jpg"
+    ],
     "category_id": "2",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "youtube_trailer": "yt_bound_5",
+    "rating": "7.1",
+    "releasedate": "2023-04-10",
+    "plot": "A woman trapped in a haunted house begins to question whether the real horror lies outside—or inside—her own mind."
   },
   {
     "num": 6,
-    "name": "For Bigger Joyrides",
+    "name": "Paradise",
     "stream_type": "movie",
     "stream_id": "6",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/6.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/6.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/6.jpg"
+    ],
     "category_id": "3",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "youtube_trailer": "yt_paradise_6",
+    "rating": "7.3",
+    "releasedate": "2023-04-25",
+    "plot": "A travel writer journeys to a secluded sea to film a documentary and ends up questioning what “paradise” truly means."
   },
   {
     "num": 7,
-    "name": "For Bigger Meltdowns",
+    "name": "Empire of Shadows",
     "stream_type": "movie",
     "stream_id": "7",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/7.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/7.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/7.jpg"
+    ],
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "youtube_trailer": "yt_empire_shadows_7",
+    "rating": "8.0",
+    "releasedate": "2023-05-12",
+    "plot": "In a city ruled by crime syndicates, one man risks everything to dismantle the empire that made him powerful."
   },
   {
     "num": 8,
-    "name": "Sintel",
+    "name": "Who Is the Liar?",
     "stream_type": "movie",
     "stream_id": "8",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/8.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/8.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/8.jpg"
+    ],
+    "category_id": "2",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "youtube_trailer": "yt_who_liar_8",
+    "rating": "7.0",
+    "releasedate": "2023-06-01",
+    "plot": "A group of friends trapped by a storm must uncover which of them is hiding a deadly secret."
   },
   {
     "num": 9,
-    "name": "Subaru Outback On Street And Dirt",
+    "name": "Love in Bloom",
     "stream_type": "movie",
     "stream_id": "9",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/9.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/9.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/9.jpg"
+    ],
     "category_id": "3",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+    "youtube_trailer": "yt_love_bloom_9",
+    "rating": "7.5",
+    "releasedate": "2023-06-21",
+    "plot": "Two free spirits on a road trip through the mountains discover that the journey may be leading them straight to love."
   },
   {
     "num": 10,
-    "name": "Tears of Steel",
+    "name": "Special Agent",
     "stream_type": "movie",
     "stream_id": "10",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/10.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/10.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/10.jpg"
+    ],
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "youtube_trailer": "yt_special_agent_10",
+    "rating": "7.4",
+    "releasedate": "2023-07-05",
+    "plot": "A silent but deadly operative races against time to stop a global threat while protecting his hidden identity."
   },
   {
     "num": 11,
-    "name": "Volkswagen GTI Review",
+    "name": "A Summer Film",
     "stream_type": "movie",
     "stream_id": "11",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/11.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/11.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/11.jpg"
+    ],
+    "category_id": "2",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+    "youtube_trailer": "yt_summer_film_11",
+    "rating": "7.2",
+    "releasedate": "2023-07-22",
+    "plot": "A shy student spends one unforgettable summer making a low-budget movie and unexpectedly falls in love on set."
   },
   {
     "num": 12,
-    "name": "What care can you get for a grand?",
+    "name": "The Way of Love",
     "stream_type": "movie",
     "stream_id": "12",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/12.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/12.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/12.jpg"
+    ],
     "category_id": "3",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+    "youtube_trailer": "yt_way_love_12",
+    "rating": "7.3",
+    "releasedate": "2023-08-08",
+    "plot": "Three couples on a highway road trip face choices that will redefine what love and sacrifice mean to them."
   },
   {
     "num": 13,
-    "name": "We Are Going On Bullrun",
+    "name": "The Secret",
     "stream_type": "movie",
     "stream_id": "13",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/13.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/13.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/13.jpg"
+    ],
+    "category_id": "1",
+    "container_extension": "mp4",
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+    "youtube_trailer": "yt_the_secret_13",
+    "rating": "7.7",
+    "releasedate": "2023-08-25",
+    "plot": "A mysterious woman holds the key to a locked past, and uncovering it could destroy more than it saves."
+  },
+  {
+    "num": 14,
+    "name": "Walk Alone",
+    "stream_type": "movie",
+    "stream_id": "14",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/14.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/14.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/14.jpg"
+    ],
+    "category_id": "2",
+    "container_extension": "mp4",
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "youtube_trailer": "yt_walk_alone_14",
+    "rating": "7.1",
+    "releasedate": "2023-09-10",
+    "plot": "After a devastating loss, a man wanders a vast city at night, slowly learning how to live with solitude."
+  },
+  {
+    "num": 15,
+    "name": "Blossoms of Her Heart",
+    "stream_type": "movie",
+    "stream_id": "15",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/15.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/15.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/15.jpg"
+    ],
     "category_id": "3",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "youtube_trailer": "yt_blossoms_heart_15",
+    "rating": "7.8",
+    "releasedate": "2023-09-27",
+    "plot": "A young woman chasing her dreams in the countryside discovers strength, forgiveness, and the courage to love again."
+  },
+  {
+    "num": 16,
+    "name": "The Hood",
+    "stream_type": "movie",
+    "stream_id": "16",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/16.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/16.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/16.jpg"
+    ],
+    "category_id": "1",
+    "container_extension": "mp4",
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "youtube_trailer": "yt_the_hood_16",
+    "rating": "7.0",
+    "releasedate": "2023-10-11",
+    "plot": "A masked figure rises from the shadows of a rough neighborhood to take justice into his own hands."
+  },
+  {
+    "num": 17,
+    "name": "Terrible Scream (Don’t Look Behind)",
+    "stream_type": "movie",
+    "stream_id": "17",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/17.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/17.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/17.jpg"
+    ],
+    "category_id": "2",
+    "container_extension": "mp4",
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "youtube_trailer": "yt_terrible_scream_17",
+    "rating": "7.2",
+    "releasedate": "2023-10-25",
+    "plot": "A chilling presence stalks a small town, and one survivor must confront the terror that lurks just out of sight."
+  },
+  {
+    "num": 18,
+    "name": "Driving Into Darkness",
+    "stream_type": "movie",
+    "stream_id": "18",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/18.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/18.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/18.jpg"
+    ],
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "youtube_trailer": "yt_driving_darkness_18",
+    "rating": "7.4",
+    "releasedate": "2023-11-08",
+    "plot": "On a lonely road, a biker’s nighttime journey turns into a tense ride through secrets, guilt, and redemption."
+  },
+  {
+    "num": 19,
+    "name": "Another Planet",
+    "stream_type": "movie",
+    "stream_id": "19",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/19.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/19.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/19.jpg"
+    ],
+    "category_id": "1",
+    "container_extension": "mp4",
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "youtube_trailer": "yt_another_planet_19",
+    "rating": "8.1",
+    "releasedate": "2023-11-22",
+    "plot": "An astronaut stranded on a distant world must survive its harsh landscape while uncovering a mystery older than humanity."
+  },
+  {
+    "num": 20,
+    "name": "Cosmos",
+    "stream_type": "movie",
+    "stream_id": "20",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/20.jpg",
+    "movie_image": "http://vivaplayer.tv/wp-content/uploads/2025/11/20.jpg",
+    "backdrop_path": [
+      "http://vivaplayer.tv/wp-content/uploads/2025/11/20.jpg"
+    ],
+    "category_id": "2",
+    "container_extension": "mp4",
+    "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "youtube_trailer": "yt_cosmos_20",
+    "rating": "8.3",
+    "releasedate": "2023-12-05",
+    "plot": "An introspective astronaut shares her journey through deep space, questioning our place in the vast universe."
   }
 ]
