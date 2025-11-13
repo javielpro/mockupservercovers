@@ -1,20 +1,409 @@
 [
   {
     "num": 1,
-    "name": "Live Stream 1",
+    "name": "Fauget Channel",
     "stream_type": "live",
     "stream_id": "1",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/1.png",
     "category_id": "1",
-    "stream_url" : "https://npr-ice.streamguys1.com/live.mp3"
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
   },
   {
     "num": 2,
-    "name": "Live Stream 2",
+    "name": "Larana TV",
     "stream_type": "live",
     "stream_id": "2",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/2.png",
+    "category_id": "1",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 3,
+    "name": "TV Entertainment",
+    "stream_type": "live",
+    "stream_id": "3",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/3.png",
+    "category_id": "1",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 4,
+    "name": "Nine",
+    "stream_type": "live",
+    "stream_id": "4",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/4.png",
+    "category_id": "1",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 5,
+    "name": "Zutube Channel",
+    "stream_type": "live",
+    "stream_id": "5",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/5.png",
+    "category_id": "1",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 6,
+    "name": "Great Channel",
+    "stream_type": "live",
+    "stream_id": "6",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/6.png",
+    "category_id": "1",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 7,
+    "name": "Rimberio Kids TV",
+    "stream_type": "live",
+    "stream_id": "7",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/7.png",
+    "category_id": "1",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 8,
+    "name": "Sacha Channel",
+    "stream_type": "live",
+    "stream_id": "8",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/8.png",
+    "category_id": "1",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 9,
+    "name": "Live News – Daily Update",
+    "stream_type": "live",
+    "stream_id": "9",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/9.png",
+    "category_id": "1",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 10,
+    "name": "Sunset TV Channel",
+    "stream_type": "live",
+    "stream_id": "10",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/10.png",
+    "category_id": "1",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 11,
+    "name": "Pedro Podcast",
+    "stream_type": "live",
+    "stream_id": "11",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/11.png",
+    "category_id": "1",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 12,
+    "name": "Game Channel",
+    "stream_type": "live",
+    "stream_id": "12",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/12.png",
+    "category_id": "1",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 13,
+    "name": "Happy Kids Channel",
+    "stream_type": "live",
+    "stream_id": "13",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/13.png",
+    "category_id": "1",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 14,
+    "name": "Giggle Galaxy Entertainment",
+    "stream_type": "live",
+    "stream_id": "14",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/14.png",
+    "category_id": "1",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 15,
+    "name": "Geographic Channel – Warner & Spencer",
+    "stream_type": "live",
+    "stream_id": "15",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/15.png",
+    "category_id": "1",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+
+  {
+    "num": 16,
+    "name": "Geographic Channel – Warner & Spencer",
+    "stream_type": "live",
+    "stream_id": "16",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/15.png",
     "category_id": "2",
-    "stream_url" : "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 17,
+    "name": "Giggle Galaxy Entertainment",
+    "stream_type": "live",
+    "stream_id": "17",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/14.png",
+    "category_id": "2",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 18,
+    "name": "Happy Kids Channel",
+    "stream_type": "live",
+    "stream_id": "18",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/13.png",
+    "category_id": "2",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 19,
+    "name": "Game Channel",
+    "stream_type": "live",
+    "stream_id": "19",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/12.png",
+    "category_id": "2",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 20,
+    "name": "Pedro Podcast",
+    "stream_type": "live",
+    "stream_id": "20",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/11.png",
+    "category_id": "2",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 21,
+    "name": "Sunset TV Channel",
+    "stream_type": "live",
+    "stream_id": "21",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/10.png",
+    "category_id": "2",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 22,
+    "name": "Live News – Daily Update",
+    "stream_type": "live",
+    "stream_id": "22",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/9.png",
+    "category_id": "2",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 23,
+    "name": "Sacha Channel",
+    "stream_type": "live",
+    "stream_id": "23",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/8.png",
+    "category_id": "2",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 24,
+    "name": "Rimberio Kids TV",
+    "stream_type": "live",
+    "stream_id": "24",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/7.png",
+    "category_id": "2",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 25,
+    "name": "Great Channel",
+    "stream_type": "live",
+    "stream_id": "25",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/6.png",
+    "category_id": "2",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 26,
+    "name": "Zutube Channel",
+    "stream_type": "live",
+    "stream_id": "26",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/5.png",
+    "category_id": "2",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 27,
+    "name": "Nine",
+    "stream_type": "live",
+    "stream_id": "27",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/4.png",
+    "category_id": "2",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 28,
+    "name": "TV Entertainment",
+    "stream_type": "live",
+    "stream_id": "28",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/3.png",
+    "category_id": "2",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 29,
+    "name": "Larana TV",
+    "stream_type": "live",
+    "stream_id": "29",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/2.png",
+    "category_id": "2",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 30,
+    "name": "Fauget Channel",
+    "stream_type": "live",
+    "stream_id": "30",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/1.png",
+    "category_id": "2",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+
+  {
+    "num": 31,
+    "name": "Zutube Channel",
+    "stream_type": "live",
+    "stream_id": "31",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/5.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 32,
+    "name": "Larana TV",
+    "stream_type": "live",
+    "stream_id": "32",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/2.png",
+    "category_id": "3",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 33,
+    "name": "Giggle Galaxy Entertainment",
+    "stream_type": "live",
+    "stream_id": "33",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/14.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 34,
+    "name": "Rimberio Kids TV",
+    "stream_type": "live",
+    "stream_id": "34",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/7.png",
+    "category_id": "3",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 35,
+    "name": "Fauget Channel",
+    "stream_type": "live",
+    "stream_id": "35",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/1.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 36,
+    "name": "Game Channel",
+    "stream_type": "live",
+    "stream_id": "36",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/12.png",
+    "category_id": "3",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 37,
+    "name": "Live News – Daily Update",
+    "stream_type": "live",
+    "stream_id": "37",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/9.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 38,
+    "name": "Nine",
+    "stream_type": "live",
+    "stream_id": "38",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/4.png",
+    "category_id": "3",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 39,
+    "name": "Sunset TV Channel",
+    "stream_type": "live",
+    "stream_id": "39",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/10.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 40,
+    "name": "TV Entertainment",
+    "stream_type": "live",
+    "stream_id": "40",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/3.png",
+    "category_id": "3",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 41,
+    "name": "Geographic Channel – Warner & Spencer",
+    "stream_type": "live",
+    "stream_id": "41",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/15.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 42,
+    "name": "Sacha Channel",
+    "stream_type": "live",
+    "stream_id": "42",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/8.png",
+    "category_id": "3",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 43,
+    "name": "Great Channel",
+    "stream_type": "live",
+    "stream_id": "43",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/6.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "num": 44,
+    "name": "Happy Kids Channel",
+    "stream_type": "live",
+    "stream_id": "44",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/13.png",
+    "category_id": "3",
+    "stream_url": "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+  },
+  {
+    "num": 45,
+    "name": "Pedro Podcast",
+    "stream_type": "live",
+    "stream_id": "45",
+    "stream_icon": "http://vivaplayer.tv/wp-content/uploads/2025/11/11.png",
+    "category_id": "3",
+    "stream_url": "https://npr-ice.streamguys1.com/live.mp3"
   }
 ]
